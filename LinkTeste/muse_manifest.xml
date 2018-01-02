@@ -1,0 +1,36 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="customer.com" resolutions="1x" timestamp="1514912721115">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="181417886" ref="index"/>
+    <file name="nomq_index.css" crc="234443494" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="jquery.stellar.min.js" crc="326476534" seo="true" mt="1426407254000"/>
+    <file name="jquery-2.0.2.js" crc="3840535061" seo="true" mt="1426407254000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="foto01-u94-fr.png" crc="4206244462" ref="index"/>
+    <file name="foto01-u94-fr2.png" crc="3866628587" ref="index"/>
+    <file name="logo01.png" crc="3790227840" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto02-u108-fr.png" crc="460993174" ref="index"/>
+    <file name="foto02.jpg" crc="3832641466" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto02-u108-fr.jpg" crc="503423155" ref="index"/>
+  </folder>
+  <file name="index.html" crc="137836817" seo="true" mt="1514912714709" redirect="true"/>
+</manifest>
