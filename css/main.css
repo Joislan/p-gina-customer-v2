@@ -1,0 +1,331 @@
+.escondido {
+    display: none;
+}
+
+.listaServicos > a {
+    text-decoration: none;
+    color: #000 !important;
+}
+
+.listaServicos > a:hover {
+    text-decoration: none !important;
+    color: #0277FC !important;
+}
+
+.navbar-brand > h1 {
+    background-image: url(../imagens/CUSTOMER-logo-300px.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:contain;
+}
+
+.navbar-brand > h1 > span {
+    visibility: hidden;
+}
+
+.bg-custom {
+    background-color: #E9E7E7;
+    border-bottom: 1px solid #A3A2A2;
+}
+
+.nav-link {
+    color: #000;
+}
+
+.imgHome {
+    background-image: url(../imagens/bg-home-960px.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+
+.txtHome {
+    background-color: rgb(248, 139, 66);
+    height: 500px;
+}
+
+.imgSobre {
+    height: 600px;
+    background-image: url(../imagens/presentation-sobre.jpg);
+    background-repeat: no-repeat;
+    background-position: -110px;
+    background-size: cover;
+}
+.txtSobre {
+    height: 600px;
+}
+
+.servicos {
+    height: 600px;
+    background-image: url(../imagens/servicos-desk.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 60px;
+}
+
+.listaServicos {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 50px;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+}
+
+.cardServico {
+    margin-bottom: 50px;
+    padding-right: 30px !important;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+
+.jumbotron {
+    background: none !important;
+}
+
+#card1 {
+    background-image: url(../imagens/shopping.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#card2 {
+    background-image: url(../imagens/pesquisa.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#card3 {
+    background-image: url(../imagens/auditoria.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#card4 {
+    background-image: url(../imagens/gerenciamentoProjetos.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#card5 {
+    background-image: url(../imagens/capacitacao.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#card6 {
+    background-image: url(../imagens/recrutamento.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.card-body {
+    font-weight: 500;
+    font-size: 1.4em;
+}
+
+.modal-header {
+    background-color: #E9E7E7;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.modal-footer {
+    background-color: #E9E7E7;
+    justify-content: center !important;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+#iconeModal1 {
+    background-image: url(../imagens/shopping.png);
+}
+
+#iconeModal2 {
+    background-image: url(../imagens/pesquisa.png);
+}
+
+#iconeModal3 {
+    background-image: url(../imagens/auditoria.png);
+}
+
+#iconeModal4 {
+    background-image: url(../imagens/gerenciamentoProjetos.png);
+}
+
+#iconeModal5 {
+    background-image: url(../imagens/capacitacao.png);
+}
+
+#iconeModal6 {
+    background-image: url(../imagens/recrutamento.png);
+}
+
+#iconeModal1,
+#iconeModal2,
+#iconeModal3,
+#iconeModal4,
+#iconeModal5,
+#iconeModal6 {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+#iconeModal1 > span,
+#iconeModal2 > span,
+#iconeModal3 > span,
+#iconeModal4 > span,
+#iconeModal5 > span,
+#iconeModal6 > span {
+    visibility: hidden;
+}
+
+.clientes {
+    height: 300px;
+    background-color: #0277FC;
+}
+
+.txtClient {
+    height: 300px;
+    padding: 20px;
+    color: #fff;
+}
+
+.campoLinkClient {
+    height: 300px;
+    display: flex !important;
+    padding: 20px;
+}
+
+.linkClient {
+    margin: 10px;
+}
+
+.Client1 {
+    background-image: url(../imagens/cosbel.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 230px;
+    width: 230px;
+}
+
+.Client2 {
+    background-image: url(../imagens/offoutlet.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 230px;
+    width: 230px;
+}
+
+.Client1 > span,
+.Client2 > span {
+    visibility: hidden;
+}
+
+.fechamento {
+    background-color: #004471;
+    height: 400px;
+    background-image: url(../imagens/CUSTOMER_vetorizada-2-250px.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.contato {
+    background-color: #004471;
+    height: 130px;
+    color: #fff;
+}
+
+.txtContato {
+    padding-left: 150px !important;
+}
+
+.txtContato > p {
+    margin-bottom: 0 !important;
+}
+
+.canaisContato > p > a {
+    color: #fff !important;
+}
+
+.iconeContato {
+    margin-right: 10px;
+}
+
+@media (max-width: 480px){
+    .txtSobre,
+    .servicos {
+        height: 750px;
+    }
+
+    .Client1,
+    .Client2 {
+        height: 115px;
+        width: 115px;
+    }
+
+
+}
+
+@media (max-width: 991px) {
+    .nav {
+        display: block !important;
+        text-align: center;
+    }
+
+    .txtHome {
+        background-color: rgb(248, 139, 66);
+        height: 500px;
+        padding: 30px;
+    }
+
+    .imgSobre {
+        display: none;
+    }
+
+    .servicos {
+        padding: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .cardServico {
+        margin-bottom: 6px;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .listaServicos {
+        margin-top: 0;
+        padding-bottom: 0;
+        margin-bottom: 0;
+        background: none;
+    }
+
+    .clientes {
+        height: 500px;
+    }
+
+    .campoLinkClient {
+        justify-content: center;
+    }
+
+    .escondido {
+        display: block;
+    }
+
+    .aparente {
+        display: none;
+    }
+
+    .contato {
+        height: 250px;
+    }
+
+    .txtContato {
+        padding-left: 40px !important;
+    }
+}
