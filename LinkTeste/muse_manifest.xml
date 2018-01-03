@@ -1,36 +1,142 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="customer.com" resolutions="1x" timestamp="1514912721115">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="customer.com" resolutions="1x" timestamp="1514958078086">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="181417886" ref="index"/>
-    <file name="nomq_index.css" crc="234443494" ref="index"/>
-    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="site_global.css" crc="3910672895"/>
+    <file name="index.css" crc="504358299" ref="index"/>
+    <file name="master_a-p_g_-maestra.css" crc="3824530138" ref="filialjoquei:vendas:loja01:loja02:filialcentro:filialbenfica:index:semana05:semana04:semana01:semana03:semana02"/>
+    <file name="filialjoquei.css" crc="334392348" ref="filialjoquei"/>
+    <file name="iefonts_filialjoquei.css" crc="33738022" ref="filialjoquei"/>
+    <file name="vendas.css" crc="3866374065" ref="vendas"/>
+    <file name="loja01.css" crc="339449694" ref="loja01"/>
+    <file name="loja02.css" crc="3854357929" ref="loja02"/>
+    <file name="filialcentro.css" crc="4077472427" ref="filialcentro"/>
+    <file name="iefonts_filialcentro.css" crc="3866617183" ref="filialcentro"/>
+    <file name="filialbenfica.css" crc="229820511" ref="filialbenfica"/>
+    <file name="iefonts_filialbenfica.css" crc="3976469889" ref="filialbenfica"/>
+    <file name="iefonts_loja02.css" crc="4032237988" ref="loja02"/>
+    <file name="semana05.css" crc="270257054" ref="semana05"/>
+    <file name="semana04.css" crc="48546978" ref="semana04"/>
+    <file name="semana01.css" crc="3968730286" ref="semana01"/>
+    <file name="semana03.css" crc="88202501" ref="semana03"/>
+    <file name="semana02.css" crc="4063238475" ref="semana02"/>
   </folder>
   <folder name="assets">
     <file name="jquery.stellar.min.js" crc="326476534" seo="true" mt="1426407254000"/>
     <file name="jquery-2.0.2.js" crc="3840535061" seo="true" mt="1426407254000"/>
+    <file name="off-vendas-diárias---auditoria---dezembro---indicadores.xlsx" crc="390686706" seo="true" mt="1514956302000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4153641093" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:loja01:loja02:vendas:filialbenfica:filialcentro:filialjoquei:semana03:semana02:semana01:semana04:semana05"/>
+    <file name="museutils.js" crc="3803043152" ref="index:loja01:loja02:vendas:filialbenfica:filialcentro:filialjoquei:semana03:semana02:semana01:semana04:semana05"/>
+    <file name="whatinput.js" crc="86476730" ref="index:loja01:loja02:vendas:filialbenfica:filialcentro:filialjoquei:semana03:semana02:semana01:semana04:semana05"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:loja01:loja02:vendas:filialbenfica:filialcentro:filialjoquei:semana03:semana02:semana01:semana04:semana05"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:loja01:filialbenfica:filialcentro:filialjoquei:loja02:vendas:semana03:semana02:semana01:semana04:semana05"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:loja01:loja02:vendas:filialbenfica:filialcentro:filialjoquei:semana03:semana02:semana01:semana04:semana05"/>
+    <file name="require.js" crc="4157109226" ref="index:loja01:loja02:vendas:filialbenfica:filialcentro:filialjoquei:semana03:semana02:semana01:semana04:semana05"/>
   </folder>
   <folder name="images">
-    <file name="foto01-u94-fr.png" crc="4206244462" ref="index"/>
-    <file name="foto01-u94-fr2.png" crc="3866628587" ref="index"/>
-    <file name="logo01.png" crc="3790227840" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="foto01-u824-fr.png" crc="3866628587" ref="index"/>
+    <file name="foto01-u824-fr2.png" crc="3866628587" ref="index"/>
+    <file name="asset 1.svg" crc="300332778" ref="index:semana03:semana02:semana01:semana04:semana05"/>
+    <file name="asset 1_poster_u866.png" crc="4093993139" ref="index:semana03:semana02:semana01:semana04:semana05"/>
+    <file name="loja01.jpg" crc="4184698971" ref="loja01:filialbenfica:filialcentro:filialjoquei">
+      <caption webpage="loja01" alt=""/>
     </file>
-    <file name="foto02-u108-fr.png" crc="460993174" ref="index"/>
-    <file name="foto02.jpg" crc="3832641466" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="grafico01benfica.jpg" crc="352514645" ref="filialbenfica">
+      <caption webpage="filialbenfica" alt=""/>
     </file>
-    <file name="foto02-u108-fr.jpg" crc="503423155" ref="index"/>
+    <file name="grafico02benfica.jpg" crc="4049855318" ref="filialbenfica">
+      <caption webpage="filialbenfica" alt=""/>
+    </file>
+    <file name="grafico03benfica.jpg" crc="4271506776" ref="filialbenfica">
+      <caption webpage="filialbenfica" alt=""/>
+    </file>
+    <file name="grafico01centro.jpg" crc="532573643" ref="filialcentro">
+      <caption webpage="filialcentro" alt=""/>
+    </file>
+    <file name="grafico02centro.jpg" crc="4159915001" ref="filialcentro">
+      <caption webpage="filialcentro" alt=""/>
+    </file>
+    <file name="grafico03centro.jpg" crc="510157260" ref="filialcentro">
+      <caption webpage="filialcentro" alt=""/>
+    </file>
+    <file name="grafico01joquei.jpg" crc="4046654863" ref="filialjoquei">
+      <caption webpage="filialjoquei" alt=""/>
+    </file>
+    <file name="grafico02joquei.jpg" crc="423909735" ref="filialjoquei">
+      <caption webpage="filialjoquei" alt=""/>
+    </file>
+    <file name="grafico03joquei.jpg" crc="4049437408" ref="filialjoquei">
+      <caption webpage="filialjoquei" alt=""/>
+    </file>
+    <file name="loja02.jpg" crc="3889134221" ref="loja02">
+      <caption webpage="loja02" alt=""/>
+    </file>
+    <file name="loja02foto01.jpg" crc="513569600" ref="loja02">
+      <caption webpage="loja02" alt=""/>
+    </file>
+    <file name="loja02foto02.jpg" crc="4188125189" ref="loja02">
+      <caption webpage="loja02" alt=""/>
+    </file>
+    <file name="loja02foto03.jpg" crc="521024272" ref="loja02">
+      <caption webpage="loja02" alt=""/>
+    </file>
+    <file name="loja02foto04-u5731-fr.jpg" crc="519212245" ref="loja02"/>
+    <file name="loja02foto04.jpg" crc="4010365480" ref="loja02">
+      <caption webpage="loja02" alt=""/>
+    </file>
+    <file name="loja02foto05.jpg" crc="219422932" ref="loja02">
+      <caption webpage="loja02" alt=""/>
+    </file>
+    <file name="loja02foto06.jpg" crc="3947726579" ref="loja02">
+      <caption webpage="loja02" alt=""/>
+    </file>
+    <file name="loja02foto07.jpg" crc="139336808" ref="loja02">
+      <caption webpage="loja02" alt=""/>
+    </file>
+    <file name="loja02foto08.jpg" crc="3938899259" ref="loja02">
+      <caption webpage="loja02" alt=""/>
+    </file>
+    <file name="loja02foto09.jpg" crc="185798872" ref="loja02">
+      <caption webpage="loja02" alt=""/>
+    </file>
+    <file name="loja02foto10.jpg" crc="410841332" ref="loja02">
+      <caption webpage="loja02" alt=""/>
+    </file>
+    <file name="loja02foto11.jpg" crc="47981033" ref="loja02">
+      <caption webpage="loja02" alt=""/>
+    </file>
+    <file name="loja02foto12.jpg" crc="3963874621" ref="loja02">
+      <caption webpage="loja02" alt=""/>
+    </file>
+    <file name="vendas.jpg" crc="4256135887" ref="vendas">
+      <caption webpage="vendas" alt=""/>
+    </file>
+    <file name="semana03.jpg" crc="233933573" ref="semana03">
+      <caption webpage="semana03" alt=""/>
+    </file>
+    <file name="semana02.jpg" crc="3853304244" ref="semana02">
+      <caption webpage="semana02" alt=""/>
+    </file>
+    <file name="semana01.jpg" crc="4103062885" ref="semana01">
+      <caption webpage="semana01" alt=""/>
+    </file>
+    <file name="semana04.jpg" crc="283006785" ref="semana04">
+      <caption webpage="semana04" alt=""/>
+    </file>
+    <file name="semana05.jpg" crc="147240894" ref="semana05">
+      <caption webpage="semana05" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="137836817" seo="true" mt="1514912714709" redirect="true"/>
+  <file name="index.html" crc="4236575519" seo="true" mt="1514943815788" redirect="true"/>
+  <file name="loja01.html" crc="4269617010" seo="true" mt="1514930485071" redirect="true"/>
+  <file name="loja02.html" crc="479275563" seo="true" mt="1514950751745" redirect="true"/>
+  <file name="vendas.html" crc="129738494" seo="true" mt="1514955889331" redirect="true"/>
+  <file name="filialbenfica.html" crc="3983219066" seo="true" mt="1514940168006" redirect="true"/>
+  <file name="filialcentro.html" crc="249397267" seo="true" mt="1514936707576" redirect="true"/>
+  <file name="filialjoquei.html" crc="199470223" seo="true" mt="1514940052375" redirect="true"/>
+  <file name="semana03.html" crc="4106442890" seo="true" mt="1514957624564" redirect="true"/>
+  <file name="semana02.html" crc="3976238435" seo="true" mt="1514957624417" redirect="true"/>
+  <file name="semana01.html" crc="280473750" seo="true" mt="1514957624263" redirect="true"/>
+  <file name="semana04.html" crc="4102173842" seo="true" mt="1514957624714" redirect="true"/>
+  <file name="semana05.html" crc="3994266090" seo="true" mt="1514957624863" redirect="true"/>
 </manifest>

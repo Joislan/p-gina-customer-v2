@@ -7,13 +7,85 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://customer.com/assets/jquery.stellar.min.js</loc>
-    <lastmod>2015-03-15</lastmod>
+    <loc>http://customer.com/filialbenfica.html</loc>
+    <lastmod>2018-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://customer.com/filialcentro.html</loc>
+    <lastmod>2018-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://customer.com/filialjoquei.html</loc>
+    <lastmod>2018-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://customer.com/loja01.html</loc>
+    <lastmod>2018-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://customer.com/loja02.html</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://customer.com/vendas.html</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://customer.com/semana02.html</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://customer.com/semana03.html</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://customer.com/semana05.html</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://customer.com/semana04.html</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://customer.com/semana01.html</loc>
+    <lastmod>2018-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://customer.com/assets/jquery-2.0.2.js</loc>
+    <lastmod>2015-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://customer.com/assets/off-vendas-di%C3%A1rias---auditoria---dezembro---indicadores.xlsx</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://customer.com/assets/jquery.stellar.min.js</loc>
     <lastmod>2015-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
